@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/gitlab-cd-react/static/css/main.9b34c9a7.chunk.css",
+    "main.js": "/gitlab-cd-react/static/js/main.9fe1bfdc.chunk.js",
+    "main.js.map": "/gitlab-cd-react/static/js/main.9fe1bfdc.chunk.js.map",
+    "runtime-main.js": "/gitlab-cd-react/static/js/runtime-main.9c1cc17e.js",
+    "runtime-main.js.map": "/gitlab-cd-react/static/js/runtime-main.9c1cc17e.js.map",
+    "static/js/2.ad69787a.chunk.js": "/gitlab-cd-react/static/js/2.ad69787a.chunk.js",
+    "static/js/2.ad69787a.chunk.js.map": "/gitlab-cd-react/static/js/2.ad69787a.chunk.js.map",
+    "static/js/3.d078f51b.chunk.js": "/gitlab-cd-react/static/js/3.d078f51b.chunk.js",
+    "static/js/3.d078f51b.chunk.js.map": "/gitlab-cd-react/static/js/3.d078f51b.chunk.js.map",
+    "index.html": "/gitlab-cd-react/index.html",
+    "static/css/main.9b34c9a7.chunk.css.map": "/gitlab-cd-react/static/css/main.9b34c9a7.chunk.css.map",
+    "static/js/2.ad69787a.chunk.js.LICENSE.txt": "/gitlab-cd-react/static/js/2.ad69787a.chunk.js.LICENSE.txt",
+    "static/media/cover400.3a7ae9c2.jpg": "/gitlab-cd-react/static/media/cover400.3a7ae9c2.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9c1cc17e.js",
+    "static/js/2.ad69787a.chunk.js",
+    "static/css/main.9b34c9a7.chunk.css",
+    "static/js/main.9fe1bfdc.chunk.js"
+  ]
+}
